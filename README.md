@@ -22,15 +22,15 @@ Help yourself and the greater good and join me in sharing and completing the ult
 Ha! How should we ever do this?
 -----
 
-I don't know (it all) yet. This is an early point of that project, where I still run interviews and try to get together the big picture, to **find out what is needed.** Also, yte.st aims to find an answer on a global scale, not only functioning for a specific geo.
+There are two things I believe that could be of great help:
 
-There are two things that I would *think* could be of great help:
-
-1. a viral video comparable to this one here (which explains a comparably complex technical scenario to total noobs)
+1. a viral video comparable to [this one here][2] (which explains a comparably complex technical scenario to total noobs)
 2. a website every dev could just point clients to, saying "hey look, you don't have to believe *me* but checkout how *the world* believes things should be done) - avoiding a conflict, not trying to educate somebody, just *referring* to best practice demoed by a neutral party.
 
+Besides that, **I don't know** (it all), **yet**. This is an early stage of the project, where I run interviews and try to get together the big picture, to **find out what is needed.** Since yte.st aims to find an answer on a global scale, not only functioning for a specific geo, research is mandatory and **your help is very valuable**.
 
-That makes sense but didn't convince me yet
+
+That makes sense but didn't convince me yet.
 -----
 
 I've created a **conference talk** on the topic which I aim to present to as many people as possible. I am talking way more in deep about the above in this talk. You can watch a(n english) **recording** of the premiere of that talk and also take a look at the **slides**, held at Take Off Conf in Lille, France, Jan 30, 2014, [here][1].
