@@ -43,7 +43,7 @@ Great you're with us! Here is what you can do (for now):
 
 1. Check out the [Trello board][3]
 2. Comment and vote to the board on stuff you think is true and has happened to you already, or whatever comes to your mind on these topics. Be verbose!
-3. Add your input to the board. (I need to add you to the board to give you edit rights so just **ping me with your @trelloid** on [Twitter][4] or via E-mail at *hello at lab-up dot org*). If you're unfamiliar with Trello you can also just file an issue in this repo or E-Mail me your input.
+3. Add your input to the board. (I need to add you to the board to give you edit rights so just **ping me with your @trelloid** on [Twitter][4] or via E-mail at *hi at yte dot st*). If you're unfamiliar with Trello you can also just file an issue in this repo or E-Mail me your input.
 4. **Spread the word about this project!**
 
 Thanks!
